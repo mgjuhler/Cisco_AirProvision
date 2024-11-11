@@ -7,6 +7,7 @@ This guide consists of two things:
 - Config with 2.4ghz SSID to connect to with "Cisco AirProvision"
 - Cisco AirProvision 1.7.4 APK file for Andriod
 
+
 Guide:
 
 
@@ -17,5 +18,7 @@ AIR-CAP2702I-E-K9
 
 
 Documentation used in connection with this guide:
+
 https://www.cisco.com/c/en/us/td/docs/wireless/access_point/ux-ap/guide/uxap-mobapp-g.html#38753
+
 https://www.cisco.com/c/en/us/td/docs/wireless/access_point/ux-ap/guide/uxap-mobapp-g.html#58854
